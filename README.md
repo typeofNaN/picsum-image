@@ -1,4 +1,4 @@
-# Picsum Image
+# Picsum Image 📌
 
 随机生成一张 `Picsum` 图片，可用于没有图片时快速生成一张占位图。
 
@@ -28,7 +28,7 @@ import { PicsumImage } from 'picsum-image'
 const imageUrl1 = PicsumImage.generateUrl({
   id: 123, // 图片ID
   width: 200, // 图片宽度(px)
-  height: 200，// 图片高度(px)
+  height: 200, // 图片高度(px)
   jpg: false, // 是否返回jpg格式图片
   blur: 0, // 模糊度
   grayscale: false, // 是否灰度图
