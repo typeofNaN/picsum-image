@@ -1,0 +1,43 @@
+{
+  "name": "picsum-image",
+  "version": "1.0.0",
+  "main": "./dist/picsum-image.js",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "typeofNaN",
+    "url": "https://github.com/typeofNaN",
+    "email": "dmdefine6@gmail.com"
+  },
+  "homepage": "https://github.com/typeofNaN/picsum-image",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/typeofNaN/picsum-image.git"
+  },
+  "bugs": {
+    "url": "https://github.com/typeofNaN/picsum-image/issues"
+  },
+  "license": "MIT",
+  "description": "快速生成picsum图片，适用于UI未提供图片时设置占位图。",
+  "keywords": [
+    "Picsum",
+    "random-image",
+    "随机图片",
+    "占位图"
+  ],
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vite": "^7.0.0",
+    "vite-plugin-dts": "^4.5.4"
+  },
+  "files": [
+    "dist/",
+    "LICENSE",
+    "README.md"
+  ]
+}
