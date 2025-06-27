@@ -1,8 +1,11 @@
 {
   "name": "picsum-image",
-  "version": "1.0.0",
-  "main": "./dist/picsum-image.js",
-  "types": "./dist/index.d.ts",
+  "version": "1.0.1",
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "import": "./dist/picsum-image.js",
+    "require": "./dist/picsum-image.cjs"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -38,6 +41,7 @@
   "files": [
     "dist/",
     "LICENSE",
-    "README.md"
+    "README.md",
+    "CHANGELOG.md"
   ]
 }

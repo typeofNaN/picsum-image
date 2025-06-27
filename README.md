@@ -18,7 +18,11 @@ pnpm add picsum-image
 ## Usage
 
 ``` js
+// ESM
 import { PicsumImage } from 'picsum-image'
+
+// commonjs
+const { PicsumImage } = require('picsum-image')
 
 /**
  * 生成Picsum图片链接
