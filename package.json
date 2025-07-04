@@ -1,8 +1,8 @@
 {
   "name": "picsum-image",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "types": "./dist/index.d.ts",
   "exports": {
-    "types": "./dist/index.d.ts",
     "import": "./dist/picsum-image.js",
     "require": "./dist/picsum-image.cjs"
   },
