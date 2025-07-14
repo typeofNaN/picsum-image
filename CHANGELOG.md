@@ -1,5 +1,11 @@
 # ChangeLog
 
+## [v1.0.4](https://github.com/typeofNaN/picsum-image/compare/v1.0.3...v1.0.4) (2025-07-07)
+
+### 🐞 修复Bug
+
+* 修复TS类型异常问题
+
 ## [v1.0.3](https://github.com/typeofNaN/picsum-image/compare/v1.0.2...v1.0.3) (2025-07-07)
 
 ### 🐞 修复Bug
