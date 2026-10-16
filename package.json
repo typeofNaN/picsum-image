@@ -1,6 +1,6 @@
 {
   "name": "picsum-image",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "./dist/picsum-image.cjs",
   "module": "./dist/picsum-image.js",
   "types": "./dist/index.d.ts",

@@ -1,6 +1,6 @@
 # ChangeLog
 
-## Unreleased
+## [v1.0.5](https://github.com/typeofNaN/picsum-image/compare/v1.0.4...v1.0.5) (2026-10-16)
 
 ### ✨ 新功能
 
